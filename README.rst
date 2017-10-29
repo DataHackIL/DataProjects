@@ -1,18 +1,15 @@
-DataHack projects list
+DataHack Projects List
 ######################
 
+A list of projects created at the yearly iterations of `DataHack <http://datahack-il.com/>`_ and related resources.
 
-This is a list of past talks in the  `DataTalks <https://www.meetup.com/DataHack>`_ meetup series by `DataHack <http://datahack-il.com/>`_.
-
-DataTalks homepage: https://www.meetup.com/DataHack/
-
-The `DataTalks <https://www.meetup.com/DataHack>`_ meetup series is hosted by different companies, with each meetup usually featuring two speakers, where at least one of the speakers - and sometimes both - is not an employee of the hosting company. Talks touch on a variety of subjects in machine learning, statistics, data engineering and other data science related topics. 
+DataHack is the first data-driven hackathon in Israel, designed to bring together the Israeli data community. You can find more information at: http://datahack-il.com
 
 You can also find us on `Facebook <https://www.facebook.com/datahackil/>`_, `Twitter <https://twitter.com/DataHackIL/>`_ and join `our monthly newsletter <join our monthly newsletter>`_. 
 
 |
 
-.. contents:: **Past meetups:**
+.. contents:: **DataHack Projects:**
 
 .. section-numbering:
 
