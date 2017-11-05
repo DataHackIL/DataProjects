@@ -79,6 +79,19 @@ Tacbak - Talkbacks based news insights 🗯
 * Slides: https://docs.google.com/presentation/d/1Crlso0T3-9-6tTh-d7asLQNLRgrPQxjfWajdfqKM59o/edit?usp=sharing
 
 
+StraightWalk - Parkinson patients gait 🗯
+-----------------------------------------
+**Team Name:** StraightWalk
+
+**Team Members:** Chaim Cohen
+
+**Project:** Parkinson patients gait
+
+**Links:**
+
+* Slides: https://docs.google.com/presentation/d/1f0csFqy1VbQYoKOh_6eJC4BPfXJnfG80J7KIVeLFsas/edit?usp=sharing
+
+
 DataHack 2016
 =============
 **Facebook event page:** https://www.facebook.com/events/1825264514368346
