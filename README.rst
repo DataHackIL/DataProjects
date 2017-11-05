@@ -66,6 +66,19 @@ The Hippos - The Poetry Urban Map 🦏
 * Slides: https://docs.google.com/presentation/d/1HIZMDXAFpb8dm501fBQwz5q6WUPee57GPoYKg0gKWNs/edit?usp=sharing
 
 
+Tacbak - Talkbacks based news insights 🗯
+-----------------------------------------
+**Team Name:** Tacbak
+
+**Team Members:** Eyal Hariri, Yoav Ben-Yehoshua, Yonatan Nuriel, Alon kenneth
+
+**Project:** Talkbacks based news insights
+
+**Links:**
+
+* Slides: https://docs.google.com/presentation/d/1Crlso0T3-9-6tTh-d7asLQNLRgrPQxjfWajdfqKM59o/edit?usp=sharing
+
+
 DataHack 2016
 =============
 **Facebook event page:** https://www.facebook.com/events/1825264514368346
