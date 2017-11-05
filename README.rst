@@ -79,7 +79,7 @@ Tacbak - Talkbacks based news insights 🗯
 * Slides: https://docs.google.com/presentation/d/1Crlso0T3-9-6tTh-d7asLQNLRgrPQxjfWajdfqKM59o/edit?usp=sharing
 
 
-StraightWalk - Parkinson patients gait 👴🏼
+StraightWalk - Parkinson patients gait 👵🏿
 -----------------------------------------
 **Team Name:** StraightWalk
 
