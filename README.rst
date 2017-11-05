@@ -19,9 +19,12 @@ DataHack 2015
 =============
 **Facebook event page:** https://www.facebook.com/events/161836037500120
 
+
 ZOLIS - Event Social Dashboard 📶
 ---------------------------------
 **Team Name:** ZOLIS
+
+**Team Members:** Tom Hope, Hezi Resheff, Itay Lieder
 
 **Project:** Event Social Dashboard
 
@@ -32,6 +35,22 @@ ZOLIS - Event Social Dashboard 📶
 * Slides: https://docs.google.com/presentation/d/1RA0ZosRmqDQLrve9m88LsAiOwuW6gjwl3t2i3Hmel3M/edit?usp=sharing
 * Repository: https://github.com/ItayLieder/datahack-fbook
 * Live demo: http://54.68.5.226/datahack-fbook/interactive_network_demo/
+
+
+VIZWAY - Car accidents density 🚗
+---------------------------------
+**Team Name:** VIZWAY
+
+**Team Members:** Idit Minka, Inbal Levi, Dan Ofer, Amos Sidelnik, Daniel Hershcovich
+
+**Project:** Car accidents density
+
+**Description:** A website presenting accidents density according to cities is israel
+
+**Links:**
+
+* Slides: https://docs.google.com/presentation/d/1NAedF1qUhCH0GAuv1c29zuJsxfrxybu7DuGAuWQ28sY/edit?usp=sharing
+* Repository: https://github.com/danielhers/vizway
 
 
 DataHack 2016
