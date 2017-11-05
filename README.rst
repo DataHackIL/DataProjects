@@ -53,6 +53,19 @@ VIZWAY - Car accidents density 🚗
 * Repository: https://github.com/danielhers/vizway
 
 
+The Hippos - The Poetry Urban Map 🦏
+------------------------------------
+**Team Name:** The Hippos
+
+**Team Members:** Yuval Naveh, Eric Feldman, Jenia Makrinich, Gur Ronen
+
+**Project:** The Poetry Urban Map
+
+**Links:**
+
+* Slides: https://docs.google.com/presentation/d/1HIZMDXAFpb8dm501fBQwz5q6WUPee57GPoYKg0gKWNs/edit?usp=sharing
+
+
 DataHack 2016
 =============
 **Facebook event page:** https://www.facebook.com/events/1825264514368346
