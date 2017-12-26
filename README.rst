@@ -5,7 +5,7 @@ A list of projects created at the yearly iterations of `DataHack <http://datahac
 
 DataHack is the first data-driven hackathon in Israel, designed to bring together the Israeli data community. You can find more information at: http://datahack-il.com
 
-You can also find us on `Facebook <https://www.facebook.com/datahackil/>`_, `Twitter <https://twitter.com/DataHackIL/>`_ and join `our monthly newsletter <join our monthly newsletter>`_. 
+You can also find us on `Facebook <https://www.facebook.com/datahackil/>`_, `Twitter <https://twitter.com/DataHackIL/>`_ and join `our monthly newsletter <https://mailchi.mp/2c67d69eb667/datahack-newsletter>`_. 
 
 |
 
