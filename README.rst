@@ -117,15 +117,14 @@ DataHack 2017
 **Facebook event page:** https://www.facebook.com/events/1623405514382356
 **Meetup event page:** https://www.meetup.com/DataHack/events/243705006
 
-The Examples - WeaselTron: Predicting tail length in adult weasels and ferrets 📏
-----------------------------------------------------------------------------------
-**Team Name:** The Examples
+MAGMA: Machine bAsed General Movements Assessment
+-------------------------------------------------
+**Team Name:** MAGMA
 
-**Project Name:** WeaselTron: Predicting tail length in adult weasels and ferrets
+**Project Name:** MAGMA: Machine bAsed General Movements Assessment
 
-**Description:** Tail length varies wildly in populations of adult weasels and ferrets, and the finnacial implications are huge, estimated in the billions of dollars a day. We created a system to automatically estimate the tail length of an adult weasel from other measurable parameters, or from a Facebook profile picture of the ferret. The system achieves an accuracy rate of 93%, which we achieved using random forests (in which the ferrets live).
+**Description:** Automizing the General Movements Assessment (GMA) process to achieve machince-based diagnosis of Cerebral Palsy (CP).
 
 **Links:**
 
-* Repository: https://www.github.com/chimpopo/weaseltron
-* Slides: https://tinyurl.com/a2973yruh2f9dj
+* Slides: https://docs.google.com/presentation/d/1rYIWlliLqOo7mBJXGm8TpGifppTsBNfNb0K4plFnVOg/edit?usp=sharing
