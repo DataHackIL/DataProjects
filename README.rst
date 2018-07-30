@@ -79,8 +79,8 @@ Tacbak - Talkbacks based news insights 🗯
 * Slides: https://docs.google.com/presentation/d/1Crlso0T3-9-6tTh-d7asLQNLRgrPQxjfWajdfqKM59o/edit?usp=sharing
 
 
-StraightWalk - Parkinson patients gait 👵🏿
------------------------------------------
+StraightWalk - Parkinson patients gait
+--------------------------------------
 **Team Name:** StraightWalk
 
 **Team Members:** Chaim Cohen
@@ -129,6 +129,7 @@ MAGMA: Machine bAsed General Movements Assessment
 
 * Slides: https://docs.google.com/presentation/d/1rYIWlliLqOo7mBJXGm8TpGifppTsBNfNb0K4plFnVOg/edit?usp=sharing
 
+
 Sytos  
 -----
 **Team Name:** N Na Nam Name
@@ -141,8 +142,9 @@ Sytos
 
 * Slides: https://docs.google.com/presentation/d/1GPKZK4KO04jIGH3GxNbRj8HLEYdIz02WSehBkHEOxPo/edit#slide=id.p3
 
- Solving MCQ
-------------
+
+Solving MCQ
+-----------
 **Team Name:** 2B
 
 **Team Members:**  
@@ -153,6 +155,7 @@ Sytos
 
 * Slides: https://docs.google.com/presentation/d/1WDW8onjQhxahMDCTnoIanJ2APV3F_fSDbXFfvGESqGg/edit#slide=id.g292775091d_0_19
 * Code: https://github.com/ilaif/datahack-2017
+
 
 AgriTech - Peeling the  onion’s DNA
 -----------------------------------
@@ -166,6 +169,7 @@ AgriTech - Peeling the  onion’s DNA
 
 * Slides: https://docs.google.com/presentation/d/17DvFwAFbGGqJMrgueygnjAIKqtKwVnDzvOIG3I_FG7I/edit#slide=id.p7
 
+
 Politically correct - a step to our first AI President
 ------------------------------------------------------
 **Team Name:** Politically Correct
@@ -177,6 +181,7 @@ Politically correct - a step to our first AI President
 **Links:** 
 
 * Slides: https://docs.google.com/presentation/d/14iyxYNZxzKNo6f6LSluYjS5NmJhceQ4x9HwFdyEf5jU/edit#slide=id.p3
+
 
 Smelo - Sports Ranking Improved
 -------------------------------
@@ -190,8 +195,8 @@ Smelo - Sports Ranking Improved
 
 * Slides: https://drive.google.com/drive/folders/0B3IYTOSJm0hOeFd3eXZFMmo0UU0
 
-  
------------
+a
+-
 **Team Name:** 
 
 **Team Members:** 
@@ -201,52 +206,3 @@ Smelo - Sports Ranking Improved
 **Links:**
 
 * Slides: 
-
-  
------------
-**Team Name:** 
-
-**Team Members:** 
-
-**Project:** 
-
-**Links:**
-
-* Slides: 
-
-  
------------
-**Team Name:** 
-
-**Team Members:** 
-
-**Project:** 
-
-**Links:**
-
-* Slides: 
-
-  
------------
-**Team Name:** 
-
-**Team Members:** 
-
-**Project:** 
-
-**Links:**
-
-* Slides: 
-
-  
-----------
-**Team Name:** 
-
-**Team Members:** 
-
-**Project:** 
-
-**Links:**
-
-* Slides: 
-
