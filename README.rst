@@ -1,7 +1,7 @@
 DataHack Projects List
 ######################
 
-A list of projects created at the yearly iterations of `DataHack <http://datahack-il.com/>`_ and related resources.
+A list of a small part of the projects created at the yearly iterations of `DataHack <http://datahack-il.com/>`_ and related resources.
 
 DataHack is the first data-driven hackathon in Israel, designed to bring together the Israeli data community. You can find more information at: http://datahack-il.com
 
