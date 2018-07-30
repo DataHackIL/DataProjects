@@ -195,14 +195,43 @@ Smelo - Sports Ranking Improved
 
 * Slides: https://drive.google.com/drive/folders/0B3IYTOSJm0hOeFd3eXZFMmo0UU0
 
-a
--
-**Team Name:** 
 
-**Team Members:** 
+PicMe - PicMe for a great Pic with Me
+-------------------------------------
+**Team Name:** PicMe
 
-**Project:** 
+**Team Members:** Yarden Matok, Yonatan Nuriel, Ariel Nuriel
+
+**Project:** identify the owner of the album through the album’s pictures and the picture’s metadata.
 
 **Links:**
 
-* Slides: 
+* Slides: https://drive.google.com/drive/folders/0B3IYTOSJm0hOeFd3eXZFMmo0UU0
+
+
+DYNO - Reddit Upvotes Predictor
+-------------------------------
+**Team Name:** DYNO
+
+**Team Members:** 
+
+**Project:** Predicting the level of upvotes of reddit post based on their title and text
+
+**Links:**
+
+* Slides: https://docs.google.com/presentation/d/1bo8W721_hywKwg3IBjxhXkB9jbal5WxhWgDlL6F8-Cw/edit#slide=id.p7
+
+
+DreamTeam - Knesset Members' FB Posts Analytics
+-----------------------------------------------
+**Team Name:** DreamTeam
+
+**Team Members:** Hagay Goldman, Michael Shparber
+
+**Project:** Using advanced technologies (NLP, Machine Learning) we’ve built an accessible Dashboard that allows the public to easily analyze the data with smart insights and compare Political Parties and Knesset Members opinions on social issues.
+
+**Links:**
+
+* Slides: https://drive.google.com/drive/folders/0B3IYTOSJm0hOeFd3eXZFMmo0UU0
+* Public Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNzQ2MjNhYWQtMTU3Yi00Mzc2LTkzYjItYjI2MjEzYjk2MTQ0IiwidCI6IjhiZWZmOWZjLTUxOGItNGIzMC05YjAxLWZiZjg5OWIxZWEyYyIsImMiOjl9
+
