@@ -128,3 +128,125 @@ MAGMA: Machine bAsed General Movements Assessment
 **Links:**
 
 * Slides: https://docs.google.com/presentation/d/1rYIWlliLqOo7mBJXGm8TpGifppTsBNfNb0K4plFnVOg/edit?usp=sharing
+
+Sytos  🗯
+---------
+**Team Name:** N Na Nam Name
+
+**Team Members:** 
+
+**Project:** Wikipedia word disambiguation - Given an ambiguous term and a context sentence – predict the correct Wikipedia page URL that best fits both
+
+**Links:**
+
+* Slides: https://docs.google.com/presentation/d/1GPKZK4KO04jIGH3GxNbRj8HLEYdIz02WSehBkHEOxPo/edit#slide=id.p3
+
+ Solving MCQ 🗯
+---------------
+**Team Name:** 2B
+
+**Team Members:**  
+
+**Project:** Novel Multiple Choice Question Solver
+
+**Links:**
+
+* Slides: https://docs.google.com/presentation/d/1WDW8onjQhxahMDCTnoIanJ2APV3F_fSDbXFfvGESqGg/edit#slide=id.g292775091d_0_19
+* Code: https://github.com/ilaif/datahack-2017
+
+AgriTech - Peeling the  onion’s DNA 🗯
+--------------------------------------
+**Team Name:** Agritech
+
+**Team Members:** 
+
+**Project:** Peeling the  onion’s DNA - identify (from the DNA) which of the hybrids is the product of the desired cross.
+
+**Links:**
+
+* Slides: https://docs.google.com/presentation/d/17DvFwAFbGGqJMrgueygnjAIKqtKwVnDzvOIG3I_FG7I/edit#slide=id.p7
+
+Politically correct - a step to our first AI President  🗯
+----------------------------------------------------------
+**Team Name:** Politically Correct
+
+**Team Members:** Dor Peretz, Tal Peretz, David Lymkis, Ran Shamay, Panorays
+
+**Project:** Deep Politics - create the perfect AI to be the next president
+
+**Links:** 
+
+* Slides: https://docs.google.com/presentation/d/14iyxYNZxzKNo6f6LSluYjS5NmJhceQ4x9HwFdyEf5jU/edit#slide=id.p3
+
+Smelo - Sports Ranking Improved 🗯
+----------------------------------
+**Team Name:** Smelo
+
+**Team Members:** 
+
+**Project:** Smelo - Predicting player-to-player match results.
+
+**Links:**
+
+* Slides: https://drive.google.com/drive/folders/0B3IYTOSJm0hOeFd3eXZFMmo0UU0
+
+  🗯
+-----------
+**Team Name:** 
+
+**Team Members:** 
+
+**Project:** 
+
+**Links:**
+
+* Slides: 
+
+  🗯
+-----------
+**Team Name:** 
+
+**Team Members:** 
+
+**Project:** 
+
+**Links:**
+
+* Slides: 
+
+  🗯
+-----------
+**Team Name:** 
+
+**Team Members:** 
+
+**Project:** 
+
+**Links:**
+
+* Slides: 
+
+  🗯
+-----------
+**Team Name:** 
+
+**Team Members:** 
+
+**Project:** 
+
+**Links:**
+
+* Slides: 
+
+  🗯
+-----------
+**Team Name:** 
+
+**Team Members:** 
+
+**Project:** 
+
+**Links:**
+
+* Slides: 
+
