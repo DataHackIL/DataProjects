@@ -97,19 +97,37 @@ DataHack 2016
 **Facebook event page:** https://www.facebook.com/events/1825264514368346
 **Meetup event page:** https://www.meetup.com/DataHack/events/233281095
 
-The Examples - WeaselTron: Predicting tail length in adult weasels and ferrets 📏
-----------------------------------------------------------------------------------
-**Team Name:** The Examples
+The Seffis -  Ensemble models approach for cab ride duration prediction [Final's Challenge] 🚖
+----------------------------------------------------------------------------------------------
+**Team Name:** The Seffis
 
-**Project Name:** WeaselTron: Predicting tail length in adult weasels and ferrets
-
-**Description:** Tail length varies wildly in populations of adult weasels and ferrets, and the finnacial implications are huge, estimated in the billions of dollars a day. We created a system to automatically estimate the tail length of an adult weasel from other measurable parameters, or from a Facebook profile picture of the ferret. The system achieves an accuracy rate of 93%, which we achieved using random forests (in which the ferrets live).
+**Project Name:** Ensemble models approach for cab ride duration prediction
 
 **Links:**
 
-* Repository: https://www.github.com/chimpopo/weaseltron
-* Slides: https://tinyurl.com/a2973yruh2f9dj
+* Video: https://www.youtube.com/watch?v=8d_9n10s3SQ&list=PLZYkt7161wELBhCKNMMthhNo61Z2k8xtu&index=3
 
+
+The Sea Snails -  Using graph-based features to predict ship type [Windward's Challenge] ⛵
+-------------------------------------------------------------------------------------------
+**Team Name:** The Sea Snails
+
+**Project Name:** Using graph-based features to predict ship type
+
+**Links:**
+
+* Video: https://www.youtube.com/watch?v=xk3Z0zgbS4I&index=2&list=PLZYkt7161wELBhCKNMMthhNo61Z2k8xtu
+
+
+SimPhony -  Data Driven Video Creation: Automatic Simpsons Episodes ⛅🎬
+------------------------------------------------------------------------
+**Team Name:** SimPhony
+
+**Project Name:** Data Driven Video Creation: Automatic Simpsons Episodes
+
+**Links:**
+
+* Video: https://www.youtube.com/watch?v=GwKq3pHkNc0&index=4&list=PLZYkt7161wELBhCKNMMthhNo61Z2k8xtu
 
 
 DataHack 2017
