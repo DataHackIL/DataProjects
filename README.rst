@@ -79,8 +79,8 @@ Tacbak - Talkbacks based news insights 🗯
 * Slides: https://docs.google.com/presentation/d/1Crlso0T3-9-6tTh-d7asLQNLRgrPQxjfWajdfqKM59o/edit?usp=sharing
 
 
-StraightWalk - Parkinson patients gait
---------------------------------------
+StraightWalk - Parkinson patients gait 🚶‍
+------------------------------------------
 **Team Name:** StraightWalk
 
 **Team Members:** Chaim Cohen
@@ -135,8 +135,8 @@ DataHack 2017
 **Facebook event page:** https://www.facebook.com/events/1623405514382356
 **Meetup event page:** https://www.meetup.com/DataHack/events/243705006
 
-MAGMA: Machine bAsed General Movements Assessment
--------------------------------------------------
+MAGMA: Machine bAsed General Movements Assessment 💻🙅‍
+-------------------------------------------------------
 **Team Name:** MAGMA
 
 **Project Name:** MAGMA: Machine bAsed General Movements Assessment
@@ -148,8 +148,8 @@ MAGMA: Machine bAsed General Movements Assessment
 * Slides: https://docs.google.com/presentation/d/1rYIWlliLqOo7mBJXGm8TpGifppTsBNfNb0K4plFnVOg/edit?usp=sharing
 
 
-Sytos  
------
+Sytos - Wikipedia word disambiguation [SparkBeyond's Challenge] 📚
+-------------------------------------------------------------------
 **Team Name:** N Na Nam Name
 
 **Team Members:** 
@@ -161,8 +161,8 @@ Sytos
 * Slides: https://docs.google.com/presentation/d/1GPKZK4KO04jIGH3GxNbRj8HLEYdIz02WSehBkHEOxPo/edit#slide=id.p3
 
 
-Solving MCQ
------------
+Solving MCQ - Novel Multiple Choice Question Solver 📝
+------------------------------------------------------
 **Team Name:** 2B
 
 **Team Members:**  
@@ -175,8 +175,8 @@ Solving MCQ
 * Code: https://github.com/ilaif/datahack-2017
 
 
-AgriTech - Peeling the  onion’s DNA
------------------------------------
+AgriTech - Peeling The Onion’s DNA 🔬🍅
+---------------------------------------
 **Team Name:** Agritech
 
 **Team Members:** 
@@ -188,8 +188,8 @@ AgriTech - Peeling the  onion’s DNA
 * Slides: https://docs.google.com/presentation/d/17DvFwAFbGGqJMrgueygnjAIKqtKwVnDzvOIG3I_FG7I/edit#slide=id.p7
 
 
-Politically correct - a step to our first AI President
-------------------------------------------------------
+Politically Correct - A step towards our first AI President 👨‍⚖
+-----------------------------------------------------------------
 **Team Name:** Politically Correct
 
 **Team Members:** Dor Peretz, Tal Peretz, David Lymkis, Ran Shamay, Panorays
@@ -201,8 +201,8 @@ Politically correct - a step to our first AI President
 * Slides: https://docs.google.com/presentation/d/14iyxYNZxzKNo6f6LSluYjS5NmJhceQ4x9HwFdyEf5jU/edit#slide=id.p3
 
 
-Smelo - Sports Ranking Improved
--------------------------------
+Smelo - Sports Ranking Improved ⚽💯
+------------------------------------
 **Team Name:** Smelo
 
 **Team Members:** 
@@ -214,21 +214,21 @@ Smelo - Sports Ranking Improved
 * Slides: https://drive.google.com/drive/folders/0B3IYTOSJm0hOeFd3eXZFMmo0UU0
 
 
-PicMe - PicMe for a great Pic with Me
--------------------------------------
+PicMe - PicMe for a great Pic with Me [OrCam's Challence] 📷
+------------------------------------------------------------
 **Team Name:** PicMe
 
 **Team Members:** Yarden Matok, Yonatan Nuriel, Ariel Nuriel
 
-**Project:** identify the owner of the album through the album’s pictures and the picture’s metadata.
+**Project:** Identify the owner of the album through the album’s pictures and the picture’s metadata.
 
 **Links:**
 
 * Slides: https://drive.google.com/drive/folders/0B3IYTOSJm0hOeFd3eXZFMmo0UU0
 
 
-DYNO - Reddit Upvotes Predictor
--------------------------------
+DYNO - Reddit Upvotes Predictor ⬆⬇
+----------------------------------
 **Team Name:** DYNO
 
 **Team Members:** 
@@ -240,8 +240,8 @@ DYNO - Reddit Upvotes Predictor
 * Slides: https://docs.google.com/presentation/d/1bo8W721_hywKwg3IBjxhXkB9jbal5WxhWgDlL6F8-Cw/edit#slide=id.p7
 
 
-DreamTeam - Knesset Members' FB Posts Analytics
------------------------------------------------
+DreamTeam - Knesset Members' FB Posts Analytics 📱🔷
+----------------------------------------------------
 **Team Name:** DreamTeam
 
 **Team Members:** Hagay Goldman, Michael Shparber
