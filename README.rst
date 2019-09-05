@@ -256,13 +256,17 @@ DreamTeam - Knesset Members' FB Posts Analytics 📱🔷
 
 |
 
-DataHack 2018 - Main Track
-==========================
-**Facebook event page:** https://www.facebook.com/events/220775572123695/
+DataHack 2019
+=============
+
+|
+
+DataHack 2019 - Main Track
+--------------------------
 
 
 The Examples - Predicting Future Racoon-based Movies 📶
--------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Team Name:** The Examples
 
 **Team Members:** Jean-Luc Piccard, Homer Simpson, Janice Joplin
@@ -273,26 +277,28 @@ The Examples - Predicting Future Racoon-based Movies 📶
 
 **Links:**
 
-* Slides: 
-* Repository: ?
-* Live demo: ?
+* Repository: https://github.com/shaypal5/pdpipe
+* Slides: https://docs.google.com/presentation/d/1l91BYDG6NeWRj7KChI9BjxNTaWWBorEnNGp3SMIMUkw/edit?usp=sharing
+* Live demo: http://www.shaypalachy.com/
 
 |
 
-DataHack 2018 - Intel's Data Science for Social Good Challenge
-==============================================================
+OrCam's Challenge
+-----------------
+
 
 |
 
-DataHack 2018 - Innoviz's LIDAR Challenge
-=========================================
+Armis' Challenge
+----------------
+
 
 |
 
-DataHack 2018 - Lightricks' Churn Prediction Challenge
-======================================================
+Lightricks' Challenge
+---------------------
 
 |
 
-DataHack 2018 - Microsoft's Math Teacher Challenge
-==================================================
+monday.com's Challenge
+----------------------
