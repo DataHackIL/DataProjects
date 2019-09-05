@@ -281,7 +281,21 @@ The Examples - Predicting Future Racoon-based Movies 📶
 * Slides: https://docs.google.com/presentation/d/1l91BYDG6NeWRj7KChI9BjxNTaWWBorEnNGp3SMIMUkw/edit?usp=sharing
 * Live demo: http://www.shaypalachy.com/
 
-|
+ASI - Automatic Sign-In 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Team Name:** ASI
+
+**Team Members:** Tal Yitzhak, Matan Shemer
+
+**Project:** Categorizing key elements in login pages 
+
+**Description:** In order to automate login procedure we need to identify the key elements required for login, for example: username, passwrd and submit button. When . If we can identify those parameters automatically for most login pages, we can login automatically to most institutions.
+
+**Links:**
+
+* Repository: Internal corporate repository
+
+
 
 OrCam's Challenge
 -----------------
