@@ -281,6 +281,23 @@ The Examples - Predicting Future Racoon-based Movies 📶
 * Slides: https://docs.google.com/presentation/d/1l91BYDG6NeWRj7KChI9BjxNTaWWBorEnNGp3SMIMUkw/edit?usp=sharing
 * Live demo: http://www.shaypalachy.com/
 
+
+Ameniteam - Code Search Engine & Auto Comment Generation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Team Name:** Ameniteam
+
+ **Team Members:** Moshe Hazoom
+
+ **Project:** Code Search Engine & Auto Comment Generation
+
+ **Description:** Semantic code search engine and auto comment generation based on Python StackOverFlow questions focusing on Data Science and Data Structures.
+
+ **Links:**
+
+ * Slides: https://docs.google.com/presentation/d/1mjhsNhzvJm1qzu6ET_ggtmuBsVrZT9_z73sdqVBPVRo/edit?usp=sharing
+
+ * Repository: https://github.com/Hazoom/codesearch
+
 |
 
 OrCam's Challenge
