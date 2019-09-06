@@ -264,21 +264,13 @@ DataHack 2019 - Main Track
 --------------------------
 
 
-The Examples - Predicting Future Racoon-based Movies 📶
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-**Team Name:** The Examples
+Geologic - Earthquake Prediction 🌍💥
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Team Name:** Geologic
 
-**Team Members:** Jean-Luc Piccard, Homer Simpson, Janice Joplin
+**Team Members:** Ittay Alfassi + ?
 
-**Project:** Predicting Future Racoon-based Movies
-
-**Description:** Here go two-to-three lines of description.
-
-**Links:**
-
-* Repository: https://github.com/shaypal5/pdpipe
-* Slides: https://docs.google.com/presentation/d/1l91BYDG6NeWRj7KChI9BjxNTaWWBorEnNGp3SMIMUkw/edit?usp=sharing
-* Live demo: http://www.shaypalachy.com/
+**Project:** Earthquake Prediction
 
 
 Lupus - Diagnosing ER Patiend & Predicting Hospitalization
@@ -309,15 +301,22 @@ ASI - Automatic Sign-In
 
 
 
-
 OrCam's Challenge
 -----------------
+
+Deep Time
+~~~~~~~~~
+
+Members: Eli Simhayev + four mystery members
 
 
 |
 
 Armis' Challenge
 ----------------
+
+Second Place
+~~~~~~~~~~~~
 
 
 |
