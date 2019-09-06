@@ -312,7 +312,17 @@ Armis' Challenge
 Lightricks' Challenge
 ---------------------
 
-|
+**Team Name:** Loss Pollos Hermanos
+
+**Team Members:** Ariel Amar, Dean Peretz,Ruthi Taboada, Tal Makdoshi
+**Project:** Saliency Style Transfer
+
+**Description:** Saliency Style Transfer
+
+**Links:**
+
+* Repository: https://github.com/arielamar123/DataHack2019.git
+* Slides: https://docs.google.com/presentation/d/1fbIPBZ-t4zUy5BHKhkqPouDud_3D_EC7xDmHWMtwAns/edit?usp=sharing
 
 monday.com's Challenge
 ----------------------
