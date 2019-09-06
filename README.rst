@@ -259,7 +259,6 @@ DreamTeam - Knesset Members' FB Posts Analytics 📱🔷
 DataHack 2019
 =============
 
-|
 
 DataHack 2019 - Main Track
 --------------------------
@@ -281,7 +280,6 @@ The Examples - Predicting Future Racoon-based Movies 📶
 * Slides: https://docs.google.com/presentation/d/1l91BYDG6NeWRj7KChI9BjxNTaWWBorEnNGp3SMIMUkw/edit?usp=sharing
 * Live demo: http://www.shaypalachy.com/
 
-|
 
 Lupus - Diagnosing ER Patiend & Predicting Hospitalization
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -291,13 +289,10 @@ Lupus - Diagnosing ER Patiend & Predicting Hospitalization
 
 **Project:** Diagnosing ER Patiend & Predicting Hospitalization
 
-**Description:** Diagnosing ER Patiend & Predicting Hospitalization using ER data from Sheba through our cooperation with ARC Innovation Center at Sheba, led by our Doctor and team member Shelly Soffer.
+**Description:** Diagnosing ER Patiend & predicting hospitalization using ER data from Sheba through our cooperation with ARC Innovation Center at Sheba, led by our Doctor and team member Shelly Soffer.
 
-**Links:**
+**Slides:** https://docs.google.com/presentation/d/1ekzYVYnnbKlqK3zpreTnhqlSTYMXeBIj2cfpaw7e6L0/edit?usp=sharin
 
-* Slides: https://docs.google.com/presentation/d/1ekzYVYnnbKlqK3zpreTnhqlSTYMXeBIj2cfpaw7e6L0/edit?usp=sharin
-
-|
 
 ASI - Automatic Sign-In 
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -309,8 +304,6 @@ ASI - Automatic Sign-In
 **Project:** Categorizing key elements in login pages 
 
 **Description:** In order to automate login procedure we need to identify the key elements required for login, for example: username, passwrd and submit button. When . If we can identify those parameters automatically for most login pages, we can login automatically to most institutions.
-
-**Links:**
 
 **Repository:** Internal corporate repository
 
