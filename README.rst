@@ -288,15 +288,14 @@ Ameniteam - Code Search Engine & Auto Comment Generation
 
 **Team Members:** Moshe Hazoom
 
-**Project:** Code Search Engine & Auto Comment Generation
+**Project:** Auto Comment Generation & Code Search Engine
 
-**Description:** Semantic code search engine and auto comment generation based on Python StackOverFlow questions focusing on Data Science and Data Structures.
+**Description:** Have you ever dreamed about an AI that could understand a code snippet and tells you what it does?
+Auto comment generation & Code Search Engine based on Python StackOverFlow questions focusing on Data Science and Data Structures.
 
 **Links:**
 
 * Slides: https://docs.google.com/presentation/d/1mjhsNhzvJm1qzu6ET_ggtmuBsVrZT9_z73sdqVBPVRo/edit?usp=sharing
-
-* Repository: https://github.com/Hazoom/codesearch
 
 |
 
