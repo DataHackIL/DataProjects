@@ -281,8 +281,27 @@ The Examples - Predicting Future Racoon-based Movies 📶
 * Slides: https://docs.google.com/presentation/d/1l91BYDG6NeWRj7KChI9BjxNTaWWBorEnNGp3SMIMUkw/edit?usp=sharing
 * Live demo: http://www.shaypalachy.com/
 
+|
+
+Lupus - Diagnosing ER Patiend & Predicting Hospitalization
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Team Name:** Lupus
+
+**Team Members:** Doron Bartov,  Gilad Barkan, Ohad Bruker, Shelly Soffer, Zion Badash
+
+**Project:** Diagnosing ER Patiend & Predicting Hospitalization
+
+**Description:** Diagnosing ER Patiend & Predicting Hospitalization using ER data from Sheba through our cooperation with ARC Innovation Center at Sheba, led by our Doctor and team member Shelly Soffer.
+
+**Links:**
+
+* Slides: https://docs.google.com/presentation/d/1ekzYVYnnbKlqK3zpreTnhqlSTYMXeBIj2cfpaw7e6L0/edit?usp=sharin
+
+|
+
 ASI - Automatic Sign-In 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+
 **Team Name:** ASI
 
 **Team Members:** Tal Yitzhak, Matan Shemer
@@ -293,7 +312,8 @@ ASI - Automatic Sign-In
 
 **Links:**
 
-* Repository: Internal corporate repository
+**Repository:** Internal corporate repository
+
 
 
 
@@ -312,6 +332,9 @@ Armis' Challenge
 Lightricks' Challenge
 ---------------------
 
+Loss Pollos Hermanos
+~~~~~~~~~~~~~~~~~~~~
+
 **Team Name:** Loss Pollos Hermanos
 
 **Team Members:** Ariel Amar, Dean Peretz,Ruthi Taboada, Tal Makdoshi
@@ -323,6 +346,7 @@ Lightricks' Challenge
 
 * Repository: https://github.com/arielamar123/DataHack2019.git
 * Slides: https://docs.google.com/presentation/d/1fbIPBZ-t4zUy5BHKhkqPouDud_3D_EC7xDmHWMtwAns/edit?usp=sharing
+
 
 monday.com's Challenge
 ----------------------
