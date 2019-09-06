@@ -281,6 +281,21 @@ The Examples - Predicting Future Racoon-based Movies 📶
 * Slides: https://docs.google.com/presentation/d/1l91BYDG6NeWRj7KChI9BjxNTaWWBorEnNGp3SMIMUkw/edit?usp=sharing
 * Live demo: http://www.shaypalachy.com/
 
+
+Lupus - Diagnosing ER Patiend & Predicting Hospitalization
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Team Name:** Lupus
+
+**Team Members:** Doron Bartov,  Gilad Barkan, Ohad Bruker, Shelly Soffer, Zion Badash
+
+**Project:** Diagnosing ER Patiend & Predicting Hospitalization
+
+**Description:** Diagnosing ER Patiend & Predicting Hospitalization using ER data from Sheba through our cooperation with ARC Innovation Center at Sheba, led by our Doctor and team member Shelly Soffer.
+
+**Links:**
+
+* Slides: https://docs.google.com/presentation/d/1ekzYVYnnbKlqK3zpreTnhqlSTYMXeBIj2cfpaw7e6L0/edit?usp=sharin
+
 |
 
 OrCam's Challenge
