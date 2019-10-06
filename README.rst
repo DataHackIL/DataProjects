@@ -264,6 +264,18 @@ DataHack 2019 - Main Track
 --------------------------
 
 
+VideoThat 🥈 - Automagically generate video clip for your input audio
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Team Name:** VideoThat
+
+**Team Members:** Yael Daihes, Yaara Arkin, Orian Sharoni, Roee Shenberg, Dalya Gartzman
+
+**Links:**
+
+* Blog: https://towardsdatascience.com/https-medium-com-orian-sharoni-videothat-6849277c301b
+* Code: https://github.com/Sharonio/VideoThat
+
+
 Geologic - Earthquake Prediction 🌍💥
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Team Name:** Geologic
