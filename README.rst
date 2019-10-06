@@ -285,7 +285,7 @@ Geologic - Earthquake Prediction 🌍💥
 **Project:** Earthquake Prediction
 
 
-Lupus - Diagnosing ER Patiend & Predicting Hospitalization
+Lupus - Diagnosing ER Patients & Predicting Hospitalization
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Team Name:** Lupus
 
