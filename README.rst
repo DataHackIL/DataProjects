@@ -259,27 +259,46 @@ DreamTeam - Knesset Members' FB Posts Analytics 📱🔷
 DataHack 2019
 =============
 
-|
 
 DataHack 2019 - Main Track
 --------------------------
 
 
-The Examples - Predicting Future Racoon-based Movies 📶
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-**Team Name:** The Examples
+Geologic - Earthquake Prediction 🌍💥
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Team Name:** Geologic
 
-**Team Members:** Jean-Luc Piccard, Homer Simpson, Janice Joplin
+**Team Members:** Ittay Alfassi + ?
 
-**Project:** Predicting Future Racoon-based Movies
+**Project:** Earthquake Prediction
 
-**Description:** Here go two-to-three lines of description.
 
-**Links:**
+Lupus - Diagnosing ER Patiend & Predicting Hospitalization
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Team Name:** Lupus
 
-* Repository: https://github.com/shaypal5/pdpipe
-* Slides: https://docs.google.com/presentation/d/1l91BYDG6NeWRj7KChI9BjxNTaWWBorEnNGp3SMIMUkw/edit?usp=sharing
-* Live demo: http://www.shaypalachy.com/
+**Team Members:** Doron Bartov,  Gilad Barkan, Ohad Bruker, Shelly Soffer, Zion Badash
+
+**Project:** Diagnosing ER Patiend & Predicting Hospitalization
+
+**Description:** Diagnosing ER Patiend & predicting hospitalization using ER data from Sheba through our cooperation with ARC Innovation Center at Sheba, led by our Doctor and team member Shelly Soffer.
+
+**Slides:** https://docs.google.com/presentation/d/1ekzYVYnnbKlqK3zpreTnhqlSTYMXeBIj2cfpaw7e6L0/edit?usp=sharin
+
+
+ASI - Automatic Sign-In 
+~~~~~~~~~~~~~~~~~~~~~~~
+
+**Team Name:** ASI
+
+**Team Members:** Tal Yitzhak, Matan Shemer
+
+**Project:** Categorizing key elements in login pages 
+
+**Description:** In order to automate login procedure we need to identify the key elements required for login, for example: username, passwrd and submit button. When . If we can identify those parameters automatically for most login pages, we can login automatically to most institutions.
+
+**Repository:** Internal corporate repository
+
 
 
 Ameniteam - Code Search Engine & Auto Comment Generation
@@ -298,9 +317,15 @@ Auto comment generation & Code Search Engine based on Python StackOverFlow quest
 * Slides: https://docs.google.com/presentation/d/1mjhsNhzvJm1qzu6ET_ggtmuBsVrZT9_z73sdqVBPVRo/edit?usp=sharing
 
 |
+=======
 
 OrCam's Challenge
 -----------------
+
+Deep Time
+~~~~~~~~~
+
+Members: Eli Simhayev + four mystery members
 
 
 |
@@ -308,13 +333,30 @@ OrCam's Challenge
 Armis' Challenge
 ----------------
 
+Second Place
+~~~~~~~~~~~~
+
 
 |
 
 Lightricks' Challenge
 ---------------------
 
-|
+Loss Pollos Hermanos
+~~~~~~~~~~~~~~~~~~~~
+
+**Team Name:** Loss Pollos Hermanos
+
+**Team Members:** Ariel Amar, Dean Peretz,Ruthi Taboada, Tal Makdoshi
+**Project:** Saliency Style Transfer
+
+**Description:** Saliency Style Transfer
+
+**Links:**
+
+* Repository: https://github.com/arielamar123/DataHack2019.git
+* Slides: https://docs.google.com/presentation/d/1fbIPBZ-t4zUy5BHKhkqPouDud_3D_EC7xDmHWMtwAns/edit?usp=sharing
+
 
 monday.com's Challenge
 ----------------------
