@@ -347,9 +347,13 @@ Armis' Challenge
 
 Second Place
 ~~~~~~~~~~~~
+**Team Name:** The Whale and the Petunias
 
+**Team Members:** Yonathan Guttel, Edden Gerber, Talia Shrem, Inbal Meir and Guy Sheffer
 
-|
+**Links:**
+https://github.com/YG15/DataHack2019
+
 
 Lightricks' Challenge
 ---------------------
